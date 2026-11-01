@@ -16,6 +16,7 @@ read the registry, pay, submit the signature, get the result.
 | M441-SEAL | Content sealing: perceptual fingerprint + Solana memo anchor | 0.03 SOL / seal |
 | ORiON Signal | Scored trading signal matrix (BTC/ETH/SOL/XRP) | 0.01 SOL / call |
 | HF Telemetry | High-frequency market telemetry lease | 0.01 SOL / call, 0.05 SOL / 24 h |
+| 441 Weather API | classified weather data for any coordinates — observed / model / calculated / forecast, with sources and timestamps (DNAiQUILA core) — https://meteo.441engine.com/weather?lat=48.42&lon=-71.08 (header x-api-key) | 0.01 SOL / call |
 | ORiON Compute | Delegated compute: hash, sortition, simulation | 0.005 SOL / call |
 
 ## Paying
